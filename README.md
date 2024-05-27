@@ -1,0 +1,1 @@
+Here is the Mathematica notebook containing simulation codes for Kim (2023) Partial protection from fluctuating selection leads to evolution towards wider population size fluctuation and a novel mechanism of balancing selection. Proc. R. Soc. B 290: 20230822
